@@ -1,5 +1,3 @@
-- * 스터디 발표용으로 Solar Prompt Cookbook 에서 OpenAI API 를 사용하는 예제로 변경
-
 # Solar Prompt Cookbook
 
 Getting Started Quickly with Codespace
@@ -33,7 +31,7 @@ Start with prompt engineering; move to fine-tuning if results are inconsistent o
 --- 
 ## Course Structure and Content 
 
-This cookbook is designed to guide non-expert users in optimizing their interactions with Upstage’s [`Solar Pro`](https://www.upstage.ai/products/gpt-4o-mini) model.
+This cookbook is designed to guide non-expert users in optimizing their interactions with Upstage’s [`Solar Pro`](https://www.upstage.ai/products/solar-pro) model.
 
 Each chapter is structured with:
 - a lesson
